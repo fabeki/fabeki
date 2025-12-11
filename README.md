@@ -13,6 +13,7 @@
 ###
 
 <h1 align="center">Hi, I'm Fatima 👋</h1>
+<h2 align="center">💻 Junior Full Stack Developer in training.</h2>
 
 ###
 
@@ -20,10 +21,9 @@
 
 ###
 
-<p align="left">Junior Full Stack Developer in training.
-<br>- 🔭 I’m currently working on: my showcase project from my Full Stack PHP training  
-<br>- 🌱 I’m currently learning: React and improving my PHP & Laravel skills  
-<br>- ⚡ Fun fact: I’m a professional overthinker, and proud of it</p>
+<p align="left">🔭 Currently working on my showcase project  
+<br>🌱 Learning React and improving my PHP & Laravel skills  
+<br>Professional overthinker, and proud of it 😉</p>
 
 
 ###
