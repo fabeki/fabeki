@@ -13,7 +13,7 @@
 ###
 
 <h1 align="center">Hi, I'm Fatima 👋</h1>
-<h2 align="center">💻 Junior Full Stack Developer in training.</h2>
+<h2 align="center">Junior Full Stack Developer in training 💻</h2>
 
 ###
 
