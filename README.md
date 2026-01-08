@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">🔭 Currently working on my showcase project  
+<p align="left">🔭 Currently working on my Laravel project  
 <br>🌱 Learning React and improving my PHP & Laravel skills  
 <br>Professional overthinker, and proud of it 😉</p>
 
